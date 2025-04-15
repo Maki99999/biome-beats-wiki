@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Maki99999/biome-beats-wiki',
+            'https://github.com/Maki99999/biome-beats-wiki/tree/main',
         },
         blog: false,
         theme: {
